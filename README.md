@@ -1,4 +1,4 @@
-Predicting USA Housing Prices With Regression
+Predicting USA Housing Prices With Regression.
 
 In this project, we will develop and evaluate the performance and the
 predictive power of a model trained and tested on data collected from houses
